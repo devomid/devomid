@@ -6,7 +6,7 @@ I started to develope a website named omiGram as a social media replica somethin
 
 Recently I finished working on a desktop app for a company I am working for to check prices of their products based on date and maby other inputs provided by company crews.
 
-i am trying to design and deploy a portfolio website and also I want to work on desing and making some basic games.
+I am trying to design and deploy a portfolio website and also I want to work on desing and making some basic games.
 
 
 
