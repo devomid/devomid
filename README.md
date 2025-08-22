@@ -1,8 +1,8 @@
 👋 Hi, I’m Omid.
-I recently started to learn programming with python at first to study and learn more about AI and data managing. but I have weakneses in math and algorithms. So I decided to put my efforts on web and desktop development.
-I also like to add mobile app development to my list of skills.
-After learning basics of python I switched to JavaScript and Node JS to become a full stack MERN developer which still there is a long wat to become a real one. But in this path I learnt basics of node JS and more of React JS, Mongo DB and Git and github.
-I started to develope a website named omiGram as a social media replica something like Instagram and X but with more graphical touches to have a special charachter. I'm still working on it to make it compelete and also I'm working on deploying and hosting it as realtime website to use by end users.
+I started to learn programming since 2023 with python at first to study and learn more about AI and data managing. but I have weakneses in math and algorithms. So I decided to put my efforts on web and desktop development but strengthening my math, algorithm and data structure fundumentals.
+I also like to add mobile app development to my list of skills and I'm working on it
+After learning basics of python I switched to JavaScript and Node JS to become a full stack MERN developer which still there is a long way to become a real one. But in this path I learnt basics of node JS and Express JS and more of React JS. Also Mongo DB, Git and github.
+I started to develope a website named [omiGram](https://github.com/devomid/omiGram.git) as a social media replica of Instagram and X but with more graphical touches to have a special charachter. I'm still working on it to make it compelete and also I'm working on deploying and hosting it as realtime website to use by end users.
 
 Recently I finished working on a desktop app for a company I am working for to check prices of their products based on date and maby other inputs provided by company crews.
 
