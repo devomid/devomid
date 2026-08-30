@@ -1,20 +1,62 @@
-👋 Hi, I’m Omid.
-I started to learn programming since 2023 with python at first to study and learn more about AI and data managing. but I have weakneses in math and algorithms. So I decided to put my efforts on web and desktop development but strengthening my math, algorithm and data structure fundumentals.
-I also like to add mobile app development to my list of skills and I'm working on it
-After learning basics of python I switched to JavaScript and Node JS to become a full stack MERN developer which still there is a long way to become a real one. But in this path I learnt basics of node JS and Express JS and more of React JS. Also Mongo DB, Git and github.
-I started to develope a website named [omiGram](https://github.com/devomid/omiGram.git) as a social media replica of Instagram and X but with more graphical touches to have a special charachter. I'm still working on it to make it compelete and also I'm working on deploying and hosting it as realtime website to use by end users.
+# 👋 Hi, I'm Omid.
 
-Recently I finished working on a desktop [app](https://github.com/devomid/SSP-Price-Checker.git) for a company I am working for to check prices of their products based on date and other inputs provided by company staff.
+I'm a self-taught developer who started programming in 2023 with Python, initially driven by an interest in AI, data, and understanding how software works.
 
-I am trying to design and deploy a portfolio website and also I want to work on desing and making some basic games.
+Since then, my interests have expanded across the stack — from frontend and mobile development to backend systems, desktop applications, game development, and embedded programming.
 
+### 🛠️ What I build
 
+My current development experience is centered around:
 
+* **Frontend:** React, JavaScript
+* **Mobile:** React Native, Expo
+* **Backend:** Node.js, Express, MongoDB
+* **Desktop:** Electron, JavaScript
+* **Languages:** JavaScript, Python, and increasingly **C++**
+* **Tools & concepts:** Git, GitHub, REST APIs, authentication, databases, geolocation, UI/UX, and application architecture
 
+I'm particularly interested in building complete products rather than focusing on a single layer of development — taking an idea from interface and user experience all the way through backend logic, data, and deployment.
 
+### 🚻 Jajisha
 
+One of my current projects is **[Jajisha](https://github.com/devomid/jajisha)** — a community-powered mobile application for discovering, reviewing, sharing, and navigating to public toilets.
 
-<!---
-devomid/devomid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+It's being built with React Native, Expo, Node.js, Express, and MongoDB, and has given me the opportunity to work with geolocation, interactive maps, navigation, authentication, user-generated content, localization, animations, and mobile UI.
+
+Jajisha is more than a practice project for me. I'm building it as a real product and intend to take it beyond development toward public use.
+
+### 🌐 Other Projects
+
+**[omiGram](https://github.com/devomid/omiGram)**
+A social-media-inspired web application combining ideas from platforms such as Instagram and X, with a stronger emphasis on visual interaction and graphical design.
+
+**[SSP Price Checker](https://github.com/devomid/SSP-Price-Checker)**
+A desktop application developed for a company I work with, designed to help staff determine product prices based on dates and other business-specific inputs.
+
+### 🎮 Where I'm going
+
+I'm currently expanding beyond web and mobile development.
+
+I'm learning **C++** with the goal of moving deeper into **game development**, while also exploring **embedded systems, hardware, and lower-level programming**.
+
+Game development particularly interests me because it brings together programming, mathematics, physics, graphics, systems thinking, and creative design.
+
+I'm also continuing to strengthen my foundations in **mathematics, algorithms, and data structures** — not simply to pass technical interviews, but to become a better programmer and understand what I'm building at a deeper level.
+
+### 🧠 How I like to learn
+
+I learn best by building.
+
+Rather than collecting technologies, I prefer to take an idea, turn it into a working project, encounter problems I don't yet understand, and learn whatever is necessary to solve them.
+
+That usually leads me somewhere unexpected — which is part of what I enjoy about programming.
+
+---
+
+### 🚀 Currently exploring
+
+`React` · `React Native` · `Node.js` · `MongoDB` · `C++` · `Game Development` · `Embedded Systems` · `Algorithms` · `Mathematics`
+
+---
+
+*Still learning. Still building. Still curious about what I can make next.*
